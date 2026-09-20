@@ -1,3 +1,6 @@
+# Imp!mail and password for our webapp:
+mail:kiransrinivas.cs25@bmsce.ac.in
+password:HAIL HYDRA
 # GRIDPOINT
 
 ### Demand-Driven Warehouse Location Optimization Platform
